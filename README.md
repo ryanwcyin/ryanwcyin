@@ -1,5 +1,5 @@
-### 👋 Hello world , I’m @ryanwcyin
-- 👀 I’m interested in any cool technology, e.g. deep learning
+### 👋 Hello , I’m @ryanwcyin
+- 👀 I’m interested in any cool technology
 - 🌱 I’m currently learning Rust
 
 <!---
